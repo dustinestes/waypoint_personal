@@ -1,0 +1,1265 @@
+# =============================================================================
+# waypoint.yaml — Dustin Estes — Lifelong Learning
+# =============================================================================
+
+subjects:
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 1 — Artificial Intelligence
+  # AI fundamentals, machine learning, and applied AI tools and platforms
+  # ---------------------------------------------------------------------------
+
+  - id: artificial-intelligence
+    title: "Artificial Intelligence"
+    description: "AI fundamentals, machine learning concepts, and applied AI tools and platforms"
+
+    milestones:
+
+      - id: ai-fundamentals
+        title: "AI Fundamentals"
+        description: "Foundational AI literacy, capabilities, and effective human-AI collaboration"
+        order: 1
+
+        modules:
+
+          - id: claude-101
+            title: "Claude 101"
+            order: 1
+            type: video
+            difficulty: beginner
+            status: complete
+            started_date:
+            completed_date: "2026-05-12"
+            resources:
+              - type: external
+                label: "Anthropic Academy"
+                url: "https://anthropic.skilljar.com/claude-101"
+
+          - id: ai-capabilities-and-limitations
+            title: "AI Capabilities and Limitations"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "15m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Anthropic Academy"
+                url: "https://anthropic.skilljar.com/ai-capabilities-and-limitations"
+
+          - id: ai-fluency-framework-foundations
+            title: "AI Fluency: Framework & Foundations"
+            order: 3
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 06m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Anthropic Academy"
+                url: "https://anthropic.skilljar.com/ai-fluency-framework-foundations"
+
+      - id: certifications
+        title: "Certifications"
+        description: "Exam preparation and certification assessments across AI platforms and vendors"
+        order: 2
+
+        modules:
+
+          - id: claude-certified-architect-foundations
+            title: "Claude Certified Architect – Foundations Certification"
+            order: 1
+            type: video
+            difficulty: advanced
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Practice Exam"
+                url: "https://anthropic.skilljar.com/anthropic-certification-practice-exam"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 2 — Cloud
+  # Microsoft 365 and cloud platform fundamentals
+  # ---------------------------------------------------------------------------
+
+  - id: cloud
+    title: "Cloud"
+    description: "Cloud platform fundamentals and services across providers"
+
+    milestones:
+
+      - id: microsoft-365
+        title: "Microsoft 365"
+        description: "Microsoft 365 fundamentals, cloud concepts, and services"
+        order: 1
+
+        modules:
+
+          - id: introduction-to-the-microsoft-365-fundamentals-ms-900
+            title: "Introduction to the Microsoft 365 Fundamentals (MS-900)"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "33m"
+            status: complete
+            started_date:
+            completed_date: "2024-08-21"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/microsoft-365-fundamentals-ms-900-intro-cert"
+
+          - id: microsoft-365-cloud-concepts
+            title: "Microsoft 365 Cloud Concepts"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 59m"
+            status: complete
+            started_date:
+            completed_date: "2024-08-28"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/microsoft-365-cloud-concepts-cert"
+
+          - id: microsoft-365-services-and-concepts
+            title: "Microsoft 365 Services and Concepts"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "3h 37m"
+            status: complete
+            started_date:
+            completed_date: "2024-10-04"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/microsoft-365-services-concepts-cert"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 3 — Containers & Infrastructure
+  # Docker, Kubernetes, Kafka, and infrastructure automation
+  # ---------------------------------------------------------------------------
+
+  - id: containers-and-infrastructure
+    title: "Containers & Infrastructure"
+    description: "Container orchestration, event streaming, and infrastructure automation"
+
+    milestones:
+
+      - id: docker-and-kubernetes
+        title: "Docker & Kubernetes"
+        description: "Container fundamentals and orchestration with Docker and Kubernetes"
+        order: 1
+
+        modules:
+
+          - id: docker-and-kubernetes-the-big-picture
+            title: "Docker and Kubernetes: The Big Picture"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 47m"
+            status: complete
+            started_date:
+            completed_date: "2022-04-24"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture"
+
+      - id: kafka
+        title: "Kafka"
+        description: "Event streaming and distributed messaging with Apache Kafka"
+        order: 2
+
+        modules:
+
+          - id: getting-started-with-apache-kafka
+            title: "Getting Started with Apache Kafka"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "3h 29m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/apache-kafka-getting-started"
+
+      - id: ansible
+        title: "Ansible"
+        description: "Infrastructure automation and configuration management with Ansible"
+        order: 3
+
+        modules:
+
+          - id: ansible-fundamentals
+            title: "Ansible Fundamentals"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "2h 41m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ansible-fundamentals-2023"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 4 — Data Analytics
+  # Power BI and data reporting for decision making and visualization
+  # ---------------------------------------------------------------------------
+
+  - id: data-analytics
+    title: "Data Analytics"
+    description: "Data visualization, reporting, and analytics with Power BI"
+
+    milestones:
+
+      - id: power-bi
+        title: "Power BI"
+        description: "Building reports, preparing data, and modeling for analytics and visualization"
+        order: 1
+
+        modules:
+
+          - id: building-your-first-power-bi-report
+            title: "Building Your First Power BI Report"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 32m"
+            status: complete
+            started_date:
+            completed_date: "2021-09-19"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/power-bi-building-first-report"
+
+          - id: power-bi-data-preparation-playbook
+            title: "Power BI Data Preparation Playbook"
+            order: 2
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 02m"
+            status: complete
+            started_date:
+            completed_date: "2021-09-21"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/power-bi-data-preparation-playbook"
+
+          - id: modeling-data-in-power-bi
+            title: "Modeling Data in Power BI"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "4h 57m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/power-bi-data-modeling"
+
+          - id: effective-reporting-with-power-bi
+            title: "Effective Reporting with Power BI"
+            order: 4
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 20m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/effective-reporting-power-bi"
+
+          - id: power-bi-data-import-playbook
+            title: "Power BI Data Import Playbook"
+            order: 5
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 46m"
+            status: complete
+            started_date:
+            completed_date: "2021-11-14"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/power-bi-data-import-playbook"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 5 — Data Engineering
+  # Databases, SQL, and data modeling concepts
+  # ---------------------------------------------------------------------------
+
+  - id: data-engineering
+    title: "Data Engineering"
+    description: "Databases, SQL, and data modeling fundamentals"
+
+    milestones:
+
+      - id: sql-server
+        title: "SQL Server"
+        description: "SQL Server fundamentals and database concepts"
+        order: 1
+
+        modules:
+
+          - id: sql-server-understanding-database-fundamentals-98-364
+            title: "SQL Server: Understanding Database Fundamentals (98-364)"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "2h 06m"
+            status: complete
+            started_date:
+            completed_date: "2022-04-11"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/sqlserver-database-fundamentals"
+
+          - id: sql-server-fundamentals
+            title: "SQL Server Fundamentals"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "8h 12m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/sql-server-fundamentals"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 6 — Endpoint Management
+  # Microsoft Intune, MEM, Windows deployment, and device management
+  # ---------------------------------------------------------------------------
+
+  - id: endpoint-management
+    title: "Endpoint Management"
+    description: "Device management, deployment, and administration across endpoint platforms"
+
+    milestones:
+
+      - id: microsoft-endpoint-management
+        title: "Microsoft Endpoint Management"
+        description: "Intune, MEM, Windows deployment, and the MD-102 exam path"
+        order: 1
+
+        modules:
+
+          - id: introduce-microsoft-endpoint-manager-and-prepare-microsoft-intune
+            title: "Introduce Microsoft Endpoint Manager and Prepare Microsoft Intune"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 02m"
+            status: complete
+            started_date:
+            completed_date: "2022-06-13"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/introduce-microsoft-endpoint-manager-prepare-microsoft-intune"
+
+          - id: enroll-devices-into-microsoft-intune
+            title: "Enroll Devices into Microsoft Intune"
+            order: 2
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 06m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/enroll-devices-microsoft-intune"
+
+          - id: introduction-to-microsoft-modern-desktop-administrator-md-100-and-md-101-exams
+            title: "Introduction to Microsoft Modern Desktop Administrator MD-100 and MD-101 Exams"
+            order: 3
+            type: video
+            difficulty: beginner
+            estimated_time: "50m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/introduction-microsoft-modern-desktop-administrator-md-100-md-101"
+
+          - id: installing-and-configuring-windows-10-11
+            title: "Installing and Configuring Windows 10/11"
+            order: 4
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 42m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/windows-10-installing-configuring"
+
+          - id: performing-windows-10-11-post-installation-tasks
+            title: "Performing Windows 10/11 Post-installation Tasks"
+            order: 5
+            type: video
+            difficulty: intermediate
+            estimated_time: "3h 56m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/windows-10-performing-post-installation-tasks-cert"
+
+          - id: microsoft-endpoint-manager-cloud-management-gateway-with-mecm
+            title: "Microsoft Endpoint Manager: Cloud Management Gateway with MECM"
+            order: 6
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 26m"
+            status: complete
+            started_date:
+            completed_date: "2022-08-25"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/mem-cloud-management-gateway-mecm"
+
+          - id: introduction-to-the-microsoft-endpoint-administrator-exam-md-102
+            title: "Introduction to the Microsoft Endpoint Administrator Exam (MD-102)"
+            order: 7
+            type: video
+            difficulty: beginner
+            estimated_time: "36m"
+            status: complete
+            started_date:
+            completed_date: "2025-06-09"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/microsoft-endpoint-administrator-exam-md-102-intro-cert"
+
+          - id: using-the-microsoft-graph-powershell-sdk
+            title: "Using the Microsoft Graph PowerShell SDK"
+            order: 8
+            type: video
+            difficulty: intermediate
+            estimated_time: "4h 01m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/microsoft-graph-powershell-sdk"
+
+          - id: windows-endpoint-administration-deploy-windows-client
+            title: "Windows Endpoint Administration: Deploy Windows Client"
+            order: 9
+            type: video
+            difficulty: intermediate
+            estimated_time: "3h 06m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/windows-endpoint-administration-deploy-windows-cert"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 7 — Linux
+  # Linux fundamentals, command line, and system administration
+  # ---------------------------------------------------------------------------
+
+  - id: linux
+    title: "Linux"
+    description: "Linux fundamentals, command line usage, and system administration"
+
+    milestones:
+
+      - id: linux-fundamentals
+        title: "Linux Fundamentals"
+        description: "Getting started with Linux through system administration"
+        order: 1
+
+        modules:
+
+          - id: getting-started-with-linux
+            title: "Getting Started with Linux"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 44m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-01"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/linux-getting-started"
+
+          - id: getting-started-with-the-linux-command-line
+            title: "Getting Started with the Linux Command Line"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 03m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-12"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/linux-command-line-getting-started-cert"
+
+          - id: getting-started-with-linux-system-administration
+            title: "Getting Started with Linux System Administration"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 07m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-12"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/linux-system-administration-getting-started-cert"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 8 — Project Management
+  # Agile methodologies, Kanban, and project tooling
+  # ---------------------------------------------------------------------------
+
+  - id: project-management
+    title: "Project Management"
+    description: "Agile methodologies, Kanban, and project tooling fundamentals"
+
+    milestones:
+
+      - id: agile-kanban
+        title: "Agile & Kanban"
+        description: "Kanban fundamentals and agile project management practices"
+        order: 1
+
+        modules:
+
+          - id: kanban-fundamentals
+            title: "Kanban Fundamentals"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 31m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/kanban-fundamentals"
+
+          - id: scrum-executive-briefing
+            title: "Scrum: Executive Briefing"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "23m"
+            status: complete
+            started_date:
+            completed_date: "2020-12-11"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/scrum-executive-briefing"
+
+          - id: kanban-executive-briefing
+            title: "Kanban: Executive Briefing"
+            order: 3
+            type: video
+            difficulty: beginner
+            estimated_time: "26m"
+            status: complete
+            started_date:
+            completed_date: "2020-12-11"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/kanban-executive-briefing"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 9 — Software Development
+  # PowerShell scripting, automation, and application development
+  # ---------------------------------------------------------------------------
+
+  - id: software-development
+    title: "Software Development"
+    description: "Scripting, automation, and application development across platforms"
+
+    milestones:
+
+      - id: powershell
+        title: "PowerShell"
+        description: "Learning path from fundamentals through advanced toolmaking and network management"
+        order: 1
+
+        modules:
+
+          - id: powershell-getting-started
+            title: "PowerShell: Getting Started"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "3h 04m"
+            status: complete
+            started_date:
+            completed_date: "2021-04-26"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-getting-started"
+
+          - id: your-first-day-with-windows-powershell
+            title: "Your First Day with Windows PowerShell"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 46m"
+            status: complete
+            started_date:
+            completed_date: "2021-04-28"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-first-day"
+
+          - id: putting-windows-powershell-to-work
+            title: "Putting Windows PowerShell to Work"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "4h 06m"
+            status: complete
+            started_date:
+            completed_date: "2021-05-09"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-putting-to-work"
+
+          - id: windows-powershell-on-the-network
+            title: "Windows PowerShell on the Network"
+            order: 4
+            type: video
+            difficulty: intermediate
+            estimated_time: "3h 44m"
+            status: complete
+            started_date:
+            completed_date: "2021-05-27"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-network-on-the"
+
+          - id: windows-powershell-toolmaking-fundamentals
+            title: "Windows PowerShell Toolmaking Fundamentals"
+            order: 5
+            type: video
+            difficulty: intermediate
+            estimated_time: "3h 55m"
+            status: complete
+            started_date:
+            completed_date: "2022-04-30"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-toolmaking-fundamentals"
+
+          - id: automation-with-windows-powershell-scripts
+            title: "Automation with Windows PowerShell Scripts"
+            order: 6
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 55m"
+            status: complete
+            started_date:
+            completed_date: "2022-05-11"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/automation-powershell-scripts"
+
+          - id: building-advanced-windows-powershell-4-functions-and-modules
+            title: "Building Advanced Windows PowerShell 4 Functions and Modules"
+            order: 7
+            type: video
+            difficulty: advanced
+            estimated_time: "3h 59m"
+            status: complete
+            started_date:
+            completed_date: "2022-05-13"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-modules-advanced-functions-building"
+
+          - id: windows-powershell-best-practices-and-patterns
+            title: "Windows PowerShell Best Practices and Patterns"
+            order: 8
+            type: video
+            difficulty: advanced
+            estimated_time: "2h 55m"
+            status: complete
+            started_date:
+            completed_date: "2022-05-14"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/windows-powershell-best-practices-patterns"
+
+          - id: windows-powershell-remoting-fundamentals
+            title: "Windows PowerShell Remoting Fundamentals"
+            order: 9
+            type: video
+            difficulty: intermediate
+            estimated_time: "4h 02m"
+            status: complete
+            started_date:
+            completed_date: "2022-05-19"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/powershell-remoting-fundamentals"
+
+      - id: electron-app-development
+        title: "Electron Application Development"
+        description: "Building cross-platform desktop applications with Electron.js"
+        order: 2
+
+        modules:
+
+          - id: introducing-electron-js
+            title: "Introducing Electron.js"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "9h 00m"
+            status: complete
+            started_date:
+            completed_date: "2021-11-12"
+            resources:
+              - type: external
+                label: "Coursetra"
+                url: "https://www.coursetra.com"
+
+          - id: electron-fundamentals
+            title: "Electron Fundamentals"
+            order: 2
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 50m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/electron-fundamentals"
+
+      - id: go
+        title: "Go"
+        description: "Learning path from fundamentals through advanced Go programming concepts"
+        order: 3
+
+        modules:
+
+          - id: go-the-big-picture
+            title: "Go: The Big Picture"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 02m"
+            status: complete
+            started_date:
+            completed_date: "2025-01-21"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/big-picture-go"
+
+          - id: go-fundamentals
+            title: "Go Fundamentals"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "7h 25m"
+            status: complete
+            started_date:
+            completed_date: "2025-01-24"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/fundamentals-go"
+
+          - id: debugging-in-go
+            title: "Debugging in Go"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 12m"
+            status: complete
+            started_date:
+            completed_date: "2025-01-29"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-debugging"
+
+          - id: managing-go-projects
+            title: "Managing Go Projects"
+            order: 4
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 35m"
+            status: complete
+            started_date:
+            completed_date: "2025-01-30"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-managing-projects"
+
+          - id: concurrent-programming-in-go
+            title: "Concurrent Programming in Go"
+            order: 5
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 42m"
+            status: complete
+            started_date:
+            completed_date: "2025-02-06"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-programming-concurrent"
+
+          - id: accessing-relational-databases-in-go
+            title: "Accessing Relational Databases in Go"
+            order: 6
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 04m"
+            status: complete
+            started_date:
+            completed_date: "2025-02-16"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-accessing-relational-databases"
+
+          - id: accessing-non-relational-databases-in-go
+            title: "Accessing Non-relational Databases in Go"
+            order: 7
+            type: video
+            difficulty: intermediate
+            estimated_time: "47m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-accessing-non-relational-databases"
+
+          - id: go-for-object-oriented-developers
+            title: "Go for Object-oriented Developers"
+            order: 8
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 07m"
+            status: complete
+            started_date:
+            completed_date: "2025-05-16"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-object-oriented-developers"
+
+          - id: testing-in-go
+            title: "Testing in Go"
+            order: 9
+            type: video
+            difficulty: intermediate
+            estimated_time: "2h 51m"
+            status: complete
+            started_date:
+            completed_date: "2025-05-20"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-testing"
+
+          - id: go-fundamentals-2
+            title: "Go Fundamentals"
+            order: 10
+            type: video
+            difficulty: beginner
+            estimated_time: "2h 47m"
+            status: complete
+            started_date:
+            completed_date: "2025-05-20"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-language-fundamentals"
+
+          - id: go-cli-playbook
+            title: "Go CLI Playbook"
+            order: 11
+            type: video
+            difficulty: intermediate
+            estimated_time: "36m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/go-playbook-cli"
+
+      - id: ruby
+        title: "Ruby"
+        description: "Learning path from Ruby fundamentals through Rails web development"
+        order: 4
+
+        modules:
+
+          - id: ruby-3-the-big-picture
+            title: "Ruby 3: The Big Picture"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 21m"
+            status: complete
+            started_date:
+            completed_date: "2024-05-28"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ruby-3-big-picture"
+
+          - id: ruby-fundamentals
+            title: "Ruby Fundamentals"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 21m"
+            status: complete
+            started_date:
+            completed_date: "2024-05-29"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/fundamentals-ruby"
+
+          - id: object-oriented-programming-in-ruby
+            title: "Object-oriented Programming in Ruby"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 21m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-01"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ruby-object-oriented-programming"
+
+          - id: unit-testing-in-ruby
+            title: "Unit Testing in Ruby"
+            order: 4
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 10m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-23"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/unit-testing-ruby"
+
+          - id: working-with-data-in-ruby-3
+            title: "Working with Data in Ruby 3"
+            order: 5
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 38m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-26"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ruby-3-working-data"
+
+          - id: packaging-ruby-code-with-rubygems
+            title: "Packaging Ruby Code with RubyGems"
+            order: 6
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 05m"
+            status: complete
+            started_date:
+            completed_date: "2024-06-30"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/packaging-ruby-code-rubygems"
+
+          - id: ruby-on-rails-the-big-picture
+            title: "Ruby on Rails: The Big Picture"
+            order: 7
+            type: video
+            difficulty: beginner
+            estimated_time: "53m"
+            status: complete
+            started_date:
+            completed_date: "2024-07-01"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/big-picture-ruby-rails"
+
+          - id: building-a-ruby-on-rails-7-development-environment
+            title: "Building a Ruby on Rails 7 Development Environment"
+            order: 8
+            type: video
+            difficulty: beginner
+            estimated_time: "57m"
+            status: complete
+            started_date:
+            completed_date: "2024-07-08"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ruby-rails-building-development-environment"
+
+          - id: ruby-on-rails-7-fundamentals
+            title: "Ruby on Rails 7 Fundamentals"
+            order: 9
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 15m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/ruby-rails-7-fundamentals"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 10 — Version Control & Dev Tools
+  # Git, GitHub, and development environment tooling
+  # ---------------------------------------------------------------------------
+
+  - id: version-control-dev-tools
+    title: "Version Control & Dev Tools"
+    description: "Source control, collaboration, and development environment setup"
+
+    milestones:
+
+      - id: git-github
+        title: "Git & GitHub"
+        description: "Source control fundamentals and GitHub for personal and team collaboration"
+        order: 1
+
+        modules:
+
+          - id: git-the-big-picture
+            title: "Git: The Big Picture"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 07m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/git-big-picture"
+
+          - id: github-getting-started
+            title: "GitHub: Getting Started"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "4h 04m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/github-getting-started"
+
+          - id: getting-started-with-git
+            title: "Getting Started with Git 2"
+            order: 3
+            type: video
+            difficulty: beginner
+            estimated_time: "2h 03m"
+            status: complete
+            started_date:
+            completed_date: "2021-06-09"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/getting-started-git"
+
+      - id: development-tools
+        title: "Development Tools"
+        description: "Coding environments and productivity tooling"
+        order: 2
+
+        modules:
+
+          - id: visual-studio-code
+            title: "Visual Studio Code"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "4h 11m"
+            status: complete
+            started_date:
+            completed_date: "2022-04-23"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/visual-studio-code"
+
+  # ---------------------------------------------------------------------------
+  # SUBJECT 11 — Web Development
+  # HTML, CSS, and JavaScript for building modern web applications
+  # ---------------------------------------------------------------------------
+
+  - id: web-development
+    title: "Web Development"
+    description: "HTML, CSS, and JavaScript for building modern web applications and tools"
+
+    milestones:
+
+      - id: html-css-javascript
+        title: "HTML, CSS & JavaScript"
+        description: "Modern web development fundamentals and practical application"
+        order: 1
+
+        modules:
+
+          - id: html-css-js-big-picture
+            title: "HTML, CSS, and Javascript: The Big Picture"
+            order: 1
+            type: video
+            difficulty: beginner
+            estimated_time: "1h 28m"
+            status: complete
+            started_date:
+            completed_date: "2021-12-20"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/html-css-javascript-big-picture"
+
+          - id: building-websites-getting-started
+            title: "Building Websites with HTML, CSS, and Javascript: Getting Started"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "3h 51m"
+            status: in_progress
+            started_date:
+            completed_date:
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/html-css-javascript-getting-started-building-websites"
+
+      - id: rest-apis
+        title: "REST APIs"
+        description: "Designing, building, and documenting RESTful web APIs"
+        order: 2
+
+        modules:
+
+          - id: designing-restful-web-apis
+            title: "Designing RESTful Web APIs"
+            order: 1
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 47m"
+            status: complete
+            started_date:
+            completed_date: "2024-11-27"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/restful-web-apis-designing"
+
+          - id: rest-fundamentals
+            title: "REST Fundamentals"
+            order: 2
+            type: video
+            difficulty: beginner
+            estimated_time: "2h 39m"
+            status: complete
+            started_date:
+            completed_date: "2024-11-29"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/fundamentals-rest"
+
+          - id: documenting-apis-effectively
+            title: "Documenting APIs Effectively"
+            order: 3
+            type: video
+            difficulty: intermediate
+            estimated_time: "1h 02m"
+            status: complete
+            started_date:
+            completed_date: "2024-11-29"
+            resources:
+              - type: external
+                label: "Pluralsight"
+                url: "https://app.pluralsight.com/library/courses/documenting-apis-effectively"
