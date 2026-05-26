@@ -34,6 +34,9 @@ subjects:
               - type: external
                 label: "Anthropic Academy"
                 url: "https://anthropic.skilljar.com/claude-101"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2026-05-12 - Anthropic - Claude 101.pdf"
 
           - id: ai-capabilities-and-limitations
             title: "AI Capabilities and Limitations"
@@ -114,6 +117,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/microsoft-365-fundamentals-ms-900-intro-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-08-21 - Pluralsight - Introduction to the Microsoft 365 Fundamentals MS-900 Exam.pdf"
 
           - id: microsoft-365-cloud-concepts
             title: "Microsoft 365 Cloud Concepts"
@@ -128,6 +134,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/microsoft-365-cloud-concepts-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-08-28 - Pluralsight - Microsoft 365 Cloud Concepts.pdf"
 
           - id: microsoft-365-services-and-concepts
             title: "Microsoft 365 Services and Concepts"
@@ -142,6 +151,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/microsoft-365-services-concepts-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-10-04 - Pluralsight - Microsoft 365 Services and Concepts.pdf"
 
   # ---------------------------------------------------------------------------
   # SUBJECT 3 — Containers & Infrastructure
@@ -174,6 +186,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-04-24 - Pluralsight - Docker and Kubernetes The Big Picture.pdf"
 
       - id: kafka
         title: "Kafka"
@@ -248,6 +263,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/power-bi-building-first-report"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-09-20 - Pluralsight - Building Your First Power BI Report.pdf"
 
           - id: power-bi-data-preparation-playbook
             title: "Power BI Data Preparation Playbook"
@@ -262,6 +280,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/power-bi-data-preparation-playbook"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-09-21 - Pluralsight - Power BI Data Preparation Playbook.pdf"
 
           - id: modeling-data-in-power-bi
             title: "Modeling Data in Power BI"
@@ -304,6 +325,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/power-bi-data-import-playbook"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-11-15 - Pluralsight - Power BI Data Import Playbook.pdf"
 
   # ---------------------------------------------------------------------------
   # SUBJECT 5 — Data Engineering
@@ -336,6 +360,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/sqlserver-database-fundamentals"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-04-11 - Pluralsight - SQL Server Understanding Database Fundamentals 98-364.pdf"
 
           - id: sql-server-fundamentals
             title: "SQL Server Fundamentals"
@@ -382,6 +409,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/introduce-microsoft-endpoint-manager-prepare-microsoft-intune"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-06-13 - Pluralsight - Introduce Microsoft Endpoint Manager and Prepare Microsoft Intune.pdf"
 
           - id: enroll-devices-into-microsoft-intune
             title: "Enroll Devices into Microsoft Intune"
@@ -452,6 +482,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/mem-cloud-management-gateway-mecm"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-08-25 - Pluralsight - Microsoft Endpoint Manager Cloud Management Gateway with MECM.pdf"
 
           - id: introduction-to-the-microsoft-endpoint-administrator-exam-md-102
             title: "Introduction to the Microsoft Endpoint Administrator Exam (MD-102)"
@@ -466,6 +499,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/microsoft-endpoint-administrator-exam-md-102-intro-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-06-09 - Pluralsight - Introduction to the Microsoft Endpoint Administrator Exam MD-102.pdf"
 
           - id: using-the-microsoft-graph-powershell-sdk
             title: "Using the Microsoft Graph PowerShell SDK"
@@ -526,6 +562,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/linux-getting-started"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-02 - Pluralsight - Getting Started with Linux.pdf"
 
           - id: getting-started-with-the-linux-command-line
             title: "Getting Started with the Linux Command Line"
@@ -540,6 +579,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/linux-command-line-getting-started-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-13 - Pluralsight - Getting Started with the Linux Command Line.pdf"
 
           - id: getting-started-with-linux-system-administration
             title: "Getting Started with Linux System Administration"
@@ -554,6 +596,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/linux-system-administration-getting-started-cert"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-13 - Pluralsight - Getting Started with Linux System Administration.pdf"
 
   # ---------------------------------------------------------------------------
   # SUBJECT 8 — Project Management
@@ -600,6 +645,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/scrum-executive-briefing"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2020-12-12 - Pluralsight - Scrum Executive Briefing.pdf"
 
           - id: kanban-executive-briefing
             title: "Kanban: Executive Briefing"
@@ -614,6 +662,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/kanban-executive-briefing"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2020-12-11 - Pluralsight - Kanban Executive Briefing.pdf"
 
   # ---------------------------------------------------------------------------
   # SUBJECT 9 — Software Development
@@ -646,6 +697,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-getting-started"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-04-27 - Pluralsight - PowerShell Getting Started.pdf"
 
           - id: your-first-day-with-windows-powershell
             title: "Your First Day with Windows PowerShell"
@@ -660,6 +714,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-first-day"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-04-29 - Pluralsight - Your First Day with Windows PowerShell.pdf"
 
           - id: putting-windows-powershell-to-work
             title: "Putting Windows PowerShell to Work"
@@ -674,6 +731,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-putting-to-work"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-05-10 - Pluralsight - Putting Windows PowerShell to Work.pdf"
 
           - id: windows-powershell-on-the-network
             title: "Windows PowerShell on the Network"
@@ -688,6 +748,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-network-on-the"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-05-27 - Pluralsight - Windows PowerShell on the Network.pdf"
 
           - id: windows-powershell-toolmaking-fundamentals
             title: "Windows PowerShell Toolmaking Fundamentals"
@@ -702,6 +765,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-toolmaking-fundamentals"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-04-30 - Pluralsight - Windows PowerShell 4 Toolmaking Fundamentals.pdf"
 
           - id: automation-with-windows-powershell-scripts
             title: "Automation with Windows PowerShell Scripts"
@@ -716,6 +782,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/automation-powershell-scripts"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-05-11 - Pluralsight - Automation with Windows PowerShell Scripts.pdf"
 
           - id: building-advanced-windows-powershell-4-functions-and-modules
             title: "Building Advanced Windows PowerShell 4 Functions and Modules"
@@ -730,6 +799,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-modules-advanced-functions-building"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-05-14 - Pluralsight - Building Advanced Windows PowerShell 4 Functions and Modules.pdf"
 
           - id: windows-powershell-best-practices-and-patterns
             title: "Windows PowerShell Best Practices and Patterns"
@@ -744,6 +816,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/windows-powershell-best-practices-patterns"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-05-15 - Pluralsight - Windows PowerShell Best Practices and Patterns.pdf"
 
           - id: windows-powershell-remoting-fundamentals
             title: "Windows PowerShell Remoting Fundamentals"
@@ -758,6 +833,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/powershell-remoting-fundamentals"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-05-20 - Pluralsight - Windows PowerShell Remoting Fundamentals.pdf"
 
       - id: electron-app-development
         title: "Electron Application Development"
@@ -814,6 +892,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/big-picture-go"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-01-21 - Pluralsight - Go The Big Picture.pdf"
 
           - id: go-fundamentals
             title: "Go Fundamentals"
@@ -828,6 +909,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/fundamentals-go"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-01-25 - Pluralsight - Go Fundamentals.pdf"
 
           - id: debugging-in-go
             title: "Debugging in Go"
@@ -842,6 +926,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-debugging"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-01-29 - Pluralsight - Debugging in Go.pdf"
 
           - id: managing-go-projects
             title: "Managing Go Projects"
@@ -856,6 +943,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-managing-projects"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-01-31 - Pluralsight - Managing Go Projects.pdf"
 
           - id: concurrent-programming-in-go
             title: "Concurrent Programming in Go"
@@ -870,6 +960,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-programming-concurrent"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-02-06 - Pluralsight - Concurrent Programming in Go.pdf"
 
           - id: accessing-relational-databases-in-go
             title: "Accessing Relational Databases in Go"
@@ -884,6 +977,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-accessing-relational-databases"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-02-17 - Pluralsight - Accessing Relational Databases in Go.pdf"
 
           - id: accessing-non-relational-databases-in-go
             title: "Accessing Non-relational Databases in Go"
@@ -912,6 +1008,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-object-oriented-developers"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-05-16 - Pluralsight - Go for Object-oriented Developers.pdf"
 
           - id: testing-in-go
             title: "Testing in Go"
@@ -926,6 +1025,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-testing"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-05-21 - Pluralsight - Testing in Go.pdf"
 
           - id: go-fundamentals-2
             title: "Go Fundamentals"
@@ -940,6 +1042,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/go-language-fundamentals"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2025-05-21 - Pluralsight - Go Fundamentals.pdf"
 
           - id: go-cli-playbook
             title: "Go CLI Playbook"
@@ -975,6 +1080,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/ruby-3-big-picture"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-05-28 - Pluralsight - Ruby 3 The Big Picture.pdf"
 
           - id: ruby-fundamentals
             title: "Ruby Fundamentals"
@@ -989,6 +1097,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/fundamentals-ruby"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-05-29 - Pluralsight - Ruby Fundamentals.pdf"
 
           - id: object-oriented-programming-in-ruby
             title: "Object-oriented Programming in Ruby"
@@ -1003,6 +1114,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/ruby-object-oriented-programming"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-01 - Pluralsight - Object-oriented Programming in Ruby.pdf"
 
           - id: unit-testing-in-ruby
             title: "Unit Testing in Ruby"
@@ -1017,6 +1131,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/unit-testing-ruby"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-23 - Pluralsight - Unit Testing in Ruby.pdf"
 
           - id: working-with-data-in-ruby-3
             title: "Working with Data in Ruby 3"
@@ -1031,6 +1148,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/ruby-3-working-data"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-06-26 - Pluralsight - Working with Data in Ruby 3.pdf"
 
           - id: packaging-ruby-code-with-rubygems
             title: "Packaging Ruby Code with RubyGems"
@@ -1045,6 +1165,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/packaging-ruby-code-rubygems"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-07-01 - Pluralsight - Packaging Ruby Code with RubyGems.pdf"
 
           - id: ruby-on-rails-the-big-picture
             title: "Ruby on Rails: The Big Picture"
@@ -1059,6 +1182,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/big-picture-ruby-rails"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-07-01 - Pluralsight - Ruby on Rails The Big Picture.pdf"
 
           - id: building-a-ruby-on-rails-7-development-environment
             title: "Building a Ruby on Rails 7 Development Environment"
@@ -1073,6 +1199,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/ruby-rails-building-development-environment"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-07-09 - Pluralsight - Building a Ruby on Rails 7 Development Environment.pdf"
 
           - id: ruby-on-rails-7-fundamentals
             title: "Ruby on Rails 7 Fundamentals"
@@ -1147,6 +1276,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/getting-started-git"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-06-10 - Pluralsight - Getting Started with Git 2.pdf"
 
       - id: development-tools
         title: "Development Tools"
@@ -1168,6 +1300,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/visual-studio-code"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2022-04-24 - Pluralsight - Visual Studio Code.pdf"
 
   # ---------------------------------------------------------------------------
   # SUBJECT 11 — Web Development
@@ -1200,6 +1335,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/html-css-javascript-big-picture"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2021-12-20 - Pluralsight - HTML CSS and JavaScript The Big Picture.pdf"
 
           - id: building-websites-getting-started
             title: "Building Websites with HTML, CSS, and Javascript: Getting Started"
@@ -1235,6 +1373,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/restful-web-apis-designing"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-11-28 - Pluralsight - Designing RESTful Web APIs.pdf"
 
           - id: rest-fundamentals
             title: "REST Fundamentals"
@@ -1249,6 +1390,9 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/fundamentals-rest"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-11-29 - Pluralsight - REST Fundamentals.pdf"
 
           - id: documenting-apis-effectively
             title: "Documenting APIs Effectively"
@@ -1263,3 +1407,6 @@ subjects:
               - type: external
                 label: "Pluralsight"
                 url: "https://app.pluralsight.com/library/courses/documenting-apis-effectively"
+              - type: external
+                label: "Certificate"
+                url: "certificates/2024-11-29 - Pluralsight - Documenting APIs Effectively.pdf"

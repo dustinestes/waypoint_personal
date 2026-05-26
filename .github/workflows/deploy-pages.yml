@@ -32,6 +32,7 @@ jobs:
           mkdir -p _site
           cp waypoint.html _site/index.html
           cp waypoint.yaml _site/waypoint.yaml
+          cp -r certificates _site/certificates
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
